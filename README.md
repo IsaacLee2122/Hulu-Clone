@@ -27,4 +27,3 @@ This is a clone web application that mimics the front end behavior of the offica
 
 ---
 <br>
-
