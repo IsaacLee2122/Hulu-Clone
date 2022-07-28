@@ -1,6 +1,6 @@
 # Hulu-Clone
 
-This is a front-end clone of the Hulu Streaming app. This project is hosted for free on https://subtle-panda-4d96bc.netlify.app
+This is a front-end clone of the Hulu Streaming app. This project is hosted for free on https://subtle-panda-496bc.netlify.app
 <br>
 
 ## Table of Contents
